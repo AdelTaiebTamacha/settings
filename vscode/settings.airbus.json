@@ -1,0 +1,58 @@
+{
+	"extensions.autoUpdate": false,
+	"extensions.autoCheckUpdates": false,
+	"update.channel": "none",
+	"update.enableWindowsBackgroundUpdates": false,
+	"update.mode": "none",
+	"editor.minimap.enabled": false,
+	"workbench.colorTheme": "Default High Contrast",
+	"workbench.colorCustomizations": {
+		// "activityBar.background": "#00AA00",
+		"editorIndentGuide.activeBackground": "#ffa238",
+		"editorIndentGuide.background": "#505050",
+
+		"editor.selectionBackground": "#ff9602",
+		"editor.inactiveSelectionBackground": "#ff9602",
+		"editor.selectionHighlightBackground": "#ff960252",
+		"editor.selectionHighlightBorder": "#ff9602",
+
+		"editor.wordHighlightBackground": "#ff960249",
+		"editor.wordHighlightBorder": "#ff960265",
+		"editor.wordHighlightTextBackground": "#ff960265",
+
+		"editor.findMatchBackground": "#02ffff7c",
+		"editor.findMatchHighlightBackground": "#02ffff71",
+		// "editor.findRangeHighlightBackground" : "#63ff0243",
+		"editor.findMatchBorder": "#02ffff",
+		"editor.findMatchHighlightBorder": "#02ffff30",
+
+		"editorGroup.dropBackground": "#ff8c003e",
+
+		"editorWhitespace.foreground": "#ffffff3d",
+
+		"tab.activeBackground": "#ff8c0063",
+		// "tab.activeBorder":"#000000ff",
+		// "tab.border":"#ff0000ff",
+
+		"diffEditor.insertedTextBackground": "#13a30068",
+		"diffEditor.insertedTextBorder": "#13a3001a",
+		// "diffEditor.insertedLineBackground" : "#13a30007",
+		"diffEditor.removedTextBackground": "#a30000a6",
+		"diffEditor.removedTextBorder": "#a300001a",
+		// "diffEditor.removedLineBackground" : "#a3000003",
+
+		"activityBar.activeBackground": "#04892a",
+
+
+
+	},
+	"customizeUI.activityBar": "bottom",
+	"customizeUI.titleBar": "inline",
+	"customizeUI.activityBarHideSettings": true,
+	"customizeUI.statusBarPosition": "under-panel",
+	"customizeUI.font.monospace": "OperatorMonoLig-Book",
+	"customizeUI.font.regular": "OperatorMonoLig-Book",
+	"diffEditor.renderSideBySide": false,
+	"window.zoomLevel": -1,
+	"editor.renderWhitespace": "all"
+}
